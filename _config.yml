@@ -1,8 +1,8 @@
 remote_theme : wowthemesnet/mediumish-theme-jekyll
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "GabiaCNS 빌더커머스 X 브랜드 Tech Blog"
+title: "GabiaCNS Tech Blog"
+description: "빌더커머스팀 X 브랜드팀"
 logo: 'assets/images/GabiaCNS_LOGO_Black.png'
 favicon: 'assets/images/GabiaCNS_LOGO_Black.png'
 baseurl: /mediumish-theme-jekyll
